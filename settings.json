@@ -1,0 +1,10 @@
+{
+    "wifi": {
+        "ssid": "BZTG-IoT",
+        "pass": "WerderBremen24",
+        "DHCP": false,
+        "client": [192, 168, 178, 200],
+        "subnet": [255, 255, 255, 0],
+        "gateway": [192, 168, 178, 1]
+    }
+}
