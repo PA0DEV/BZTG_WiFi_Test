@@ -1,7 +1,11 @@
 {
-    "wifi": {   
+    "wifi": {
+        "apMode": true,
+        "stMode": true,     
         "ssid": "BZTG-IoT",
         "pass": "WerderBremen24",
+        "APssid": "esp32-PA",
+        "APpass": "12345678",
         "DHCP": true,
         "client": [192, 168, 178, 200],
         "subnet": [255, 255, 255, 0],
